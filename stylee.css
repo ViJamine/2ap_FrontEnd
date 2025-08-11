@@ -3,3 +3,17 @@ body{
     padding: 0;
     background-color: crimson;
 }
+header,footer{
+    background-color: gold;
+    width: 100%;
+}
+header{
+    height: 5vh;
+    width: 100%;
+}
+footer{
+    height: 5vh;
+}
+.contprinc{
+    display
+}
