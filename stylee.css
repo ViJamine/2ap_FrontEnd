@@ -9,11 +9,13 @@ header,footer{
 }
 header{
     height: 5vh;
-    width: 100%;
+    
 }
 footer{
     height: 5vh;
 }
 .contprinc{
-    display
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    gap:5%;
 }
